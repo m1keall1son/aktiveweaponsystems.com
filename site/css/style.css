@@ -299,6 +299,16 @@ h4 {
   margin: 40px;
 }
 
+.transfer-img2 {
+  background-image: url("../images/image2.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex: 1;
+  border-radius: 10px;
+  margin: 40px;
+}
+
 .transfer-content ul li {
   margin-left: 20px;
   margin-top: 10px;
@@ -377,6 +387,9 @@ footer h3 {
     flex-direction: column;
   }
   .transfer-img {
+    display: none ;
+  }
+	.transfer-img2 {
     display: none ;
   }
   .transfer-content{
