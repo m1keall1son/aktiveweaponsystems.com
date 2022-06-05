@@ -127,6 +127,7 @@ nav a:active {
 nav ul li {
   display: inline-block;
   padding: 5px;
+	margin: 0 10px;
 }
 
 .contact {
@@ -371,7 +372,7 @@ footer h3 {
 .social-icon {
 	border:black 2px solid;
 	border-radius:10px;
-	padding: 2px;
+	padding: 5px;
 }
 
 .small-info {
